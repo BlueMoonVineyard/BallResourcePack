@@ -40,7 +40,7 @@ fn makeFolders { |ores|
 		mkdir -p assets/civballs/textures/ores/$key
 		for variant $variants {
 			var json = [
-			    &parent=minecraft:item/handheld
+			    &parent=minecraft:item/generated
 			    &textures=[
 			        &layer0=civballs:ores/$key/$variant
 			    ]
