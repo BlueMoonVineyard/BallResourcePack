@@ -1,1 +1,50 @@
-{"textures":{"layer0":"minecraft:item/iron_ingot"},"parent":"minecraft:item/generated","overrides":[{"predicate":{"custom_model_data":65},"model":"civballs:ores/sillicon/ingot"},{"predicate":{"custom_model_data":35},"model":"civballs:ores/aluminum/ingot"},{"predicate":{"custom_model_data":25},"model":"civballs:ores/tin/ingot"},{"predicate":{"custom_model_data":45},"model":"civballs:ores/zinc/ingot"},{"predicate":{"custom_model_data":55},"model":"civballs:ores/silver/ingot"},{"predicate":{"custom_model_data":75},"model":"civballs:ores/cobalt/ingot"},{"predicate":{"custom_model_data":85},"model":"civballs:ores/lead/ingot"},{"predicate":{"custom_model_data":15},"model":"civballs:ores/iron/ingot"}]}
+{
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  },
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "civballs:ores/sillicon/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "civballs:ores/aluminum/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "civballs:ores/tin/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "civballs:ores/zinc/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "civballs:ores/silver/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "civballs:ores/cobalt/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "civballs:ores/lead/ingot"
+    }
+  ]
+}

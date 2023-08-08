@@ -1,1 +1,26 @@
-{"textures":{"layer0":"minecraft:item/gold_ingot"},"parent":"minecraft:item/generated","overrides":[{"predicate":{"custom_model_data":25},"model":"civballs:ores/sulfur/ingot"},{"predicate":{"custom_model_data":45},"model":"civballs:ores/magnesium/ingot"},{"predicate":{"custom_model_data":15},"model":"civballs:ores/gold/ingot"},{"predicate":{"custom_model_data":35},"model":"civballs:ores/palladium/ingot"}]}
+{
+  "textures": {
+    "layer0": "minecraft:item/gold_ingot"
+  },
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "civballs:ores/sulfur/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "civballs:ores/magnesium/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "civballs:ores/palladium/ingot"
+    }
+  ]
+}

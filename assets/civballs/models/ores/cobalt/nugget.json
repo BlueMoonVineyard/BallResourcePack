@@ -1,1 +1,6 @@
-{"textures":{"layer0":"civballs:ores/cobalt/nugget"},"parent":"minecraft:item/generated"}
+{
+  "textures": {
+    "layer0": "civballs:ores/cobalt/nugget"
+  },
+  "parent": "minecraft:item/generated"
+}

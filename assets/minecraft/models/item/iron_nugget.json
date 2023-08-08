@@ -1,1 +1,26 @@
-{"textures":{"layer0":"minecraft:item/iron_nugget"},"parent":"minecraft:item/generated","overrides":[{"predicate":{"custom_model_data":24},"model":"civballs:ores/orichalcum/nugget"},{"predicate":{"custom_model_data":34},"model":"civballs:ores/hihiirogane/nugget"},{"predicate":{"custom_model_data":14},"model":"civballs:ores/copper/nugget"},{"predicate":{"custom_model_data":44},"model":"civballs:ores/meteorite/nugget"}]}
+{
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "civballs:ores/orichalcum/nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "civballs:ores/hihiirogane/nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "civballs:ores/meteorite/nugget"
+    }
+  ]
+}
