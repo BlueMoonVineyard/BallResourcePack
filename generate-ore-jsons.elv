@@ -1,6 +1,6 @@
 #!/usr/bin/env elvish
 
-var variants = [dust scraps depleted raw nugget ingot]
+var variants = [raw nugget ingot]
 
 var ironOres = [
 	&iron=10
@@ -13,7 +13,7 @@ var ironOres = [
 	&lead=80
 ]
 
-var ironBases = [sugar raw_iron raw_iron raw_iron iron_nugget iron_ingot]
+var ironBases = [raw_iron iron_nugget iron_ingot]
 
 var copperOres = [
 	&copper=10
@@ -22,7 +22,7 @@ var copperOres = [
 	&meteorite=40
 ]
 
-var copperBases = [gunpowder raw_copper raw_copper raw_copper iron_nugget copper_ingot]
+var copperBases = [raw_copper iron_nugget copper_ingot]
 
 var goldOres = [
 	&gold=10
@@ -31,7 +31,7 @@ var goldOres = [
 	&magnesium=40
 ]
 
-var goldBases = [glowstone_dust raw_gold raw_gold raw_gold gold_nugget gold_ingot]
+var goldBases = [raw_gold raw_gold gold_nugget gold_ingot]
 
 fn makeFolders { |ores|
 	var keyed = [(keys $ores)]
