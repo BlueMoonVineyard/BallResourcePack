@@ -17,18 +17,18 @@ var ironBases = [raw_iron iron_nugget iron_ingot]
 
 var copperOres = [
 	# &copper=10
-	&orichalcum=20
-	&hihiirogane=30
-	&meteorite=40
+	&orichalcum=120
+	&hihiirogane=130
+	&meteorite=140
 ]
 
 var copperBases = [raw_copper iron_nugget copper_ingot]
 
 var goldOres = [
 	# &gold=10
-	&sulfur=20
-	&palladium=30
-	&magnesium=40
+	&sulfur=220
+	&palladium=230
+	&magnesium=240
 ]
 
 var goldBases = [raw_gold gold_nugget gold_ingot]

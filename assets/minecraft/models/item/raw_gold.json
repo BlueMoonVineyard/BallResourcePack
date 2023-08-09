@@ -6,19 +6,19 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 20
+        "custom_model_data": 220
       },
       "model": "civballs:ores/sulfur/raw"
     },
     {
       "predicate": {
-        "custom_model_data": 40
+        "custom_model_data": 240
       },
       "model": "civballs:ores/magnesium/raw"
     },
     {
       "predicate": {
-        "custom_model_data": 30
+        "custom_model_data": 230
       },
       "model": "civballs:ores/palladium/raw"
     }
