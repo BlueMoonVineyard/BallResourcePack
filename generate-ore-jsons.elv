@@ -13,7 +13,7 @@ var ironOres = [
 	&lead=80
 ]
 
-var ironBases = [raw_iron iron_nugget iron_ingot]
+var ironBases = [raw_iron _ iron_ingot]
 
 var copperOres = [
 	# &copper=10
@@ -22,7 +22,24 @@ var copperOres = [
 	&meteorite=140
 ]
 
-var copperBases = [raw_copper iron_nugget copper_ingot]
+var copperBases = [raw_copper _ copper_ingot]
+
+var ironNuggetOres = [
+	# &iron=10
+	&tin=20
+	&aluminum=30
+	&zinc=40
+	&silver=50
+	&sillicon=60
+	&cobalt=70
+	&lead=80
+
+	# &copper=10
+	&orichalcum=120
+	&hihiirogane=130
+	&meteorite=140
+]
+var ironNuggetBases = [_ iron_nugget _]
 
 var goldOres = [
 	# &gold=10
@@ -54,6 +71,10 @@ fn makeFolders { |ores|
 fn makeMinecraft { |ores bases|
 	var num = 0
 	for base $bases {
+		if (eq $base _) {
+		    set num = (+ $num 1)
+			continue
+		}
 		var baseJson = [
 			&parent=minecraft:item/generated
 			&textures=[
@@ -75,4 +96,4 @@ fn makeMinecraft { |ores bases|
 }
 
 for kind [$ironOres $copperOres $goldOres] { makeFolders $kind }
-for tuple [[$ironOres $ironBases] [$copperOres $copperBases] [$goldOres $goldBases]] { makeMinecraft $tuple[0] $tuple[1] }
+for tuple [[$ironOres $ironBases] [$copperOres $copperBases] [$goldOres $goldBases] [$ironNuggetOres $ironNuggetBases]] { makeMinecraft $tuple[0] $tuple[1] }
