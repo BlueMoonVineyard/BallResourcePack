@@ -12,15 +12,15 @@
     },
     {
       "predicate": {
-        "custom_model_data": 240
-      },
-      "model": "civballs:ores/magnesium/raw"
-    },
-    {
-      "predicate": {
         "custom_model_data": 230
       },
       "model": "civballs:ores/palladium/raw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 240
+      },
+      "model": "civballs:ores/magnesium/raw"
     }
   ]
 }

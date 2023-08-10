@@ -6,21 +6,15 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 60
+        "custom_model_data": 20
       },
-      "model": "civballs:ores/sillicon/raw"
+      "model": "civballs:ores/tin/raw"
     },
     {
       "predicate": {
         "custom_model_data": 30
       },
       "model": "civballs:ores/aluminum/raw"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 20
-      },
-      "model": "civballs:ores/tin/raw"
     },
     {
       "predicate": {
@@ -33,6 +27,12 @@
         "custom_model_data": 50
       },
       "model": "civballs:ores/silver/raw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "civballs:ores/sillicon/raw"
     },
     {
       "predicate": {

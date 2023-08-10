@@ -80,7 +80,9 @@ fn makeMinecraft { |ores bases|
 			&textures=[
 				&layer0=minecraft:item/$base
 			]
-			&overrides=[(keys $ores | each { |key|
+			&overrides=[(keys $ores | order &less-than={ |a b|
+				< (+ $ores[$a] $num) (+ $ores[$b] $num)
+			} | each { |key|
 				put [&predicate=[&custom_model_data=(+ $ores[$key] $num)] &model=civballs:ores/$key/$variants[$num]]
 			})]
 		]

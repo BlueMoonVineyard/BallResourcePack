@@ -6,21 +6,15 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 62
+        "custom_model_data": 22
       },
-      "model": "civballs:ores/sillicon/ingot"
+      "model": "civballs:ores/tin/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 32
       },
       "model": "civballs:ores/aluminum/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 22
-      },
-      "model": "civballs:ores/tin/ingot"
     },
     {
       "predicate": {
@@ -33,6 +27,12 @@
         "custom_model_data": 52
       },
       "model": "civballs:ores/silver/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "civballs:ores/sillicon/ingot"
     },
     {
       "predicate": {
