@@ -29,6 +29,20 @@
 			"type": "directory",
 			"source": "orders",
 			"prefix": "orders/"
+		},
+		{
+			"type": "paletted_permutations",
+			"textures": [
+				"civballs:tools/axe",
+				"civballs:tools/hoe",
+				"civballs:tools/pickaxe",
+				"civballs:tools/shovel",
+				"civballs:tools/sword"
+			],
+			"palette_key": "civballs:tools/palettes/key",
+			"permutations": {
+				"orichalcum": "civballs:tools/palettes/orichalcum"
+			}
 		}
 	]
 }

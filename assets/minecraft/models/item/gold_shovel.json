@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/gold_shovel"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "civballs:tools/shovel/gold"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "civballs:tools/shovel/silver"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "civballs:tools/shovel/palladium"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "civballs:tools/shovel/magnesium"
+    }
+  ]
+}

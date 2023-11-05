@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/gold_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "civballs:tools/hoe/gold"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "civballs:tools/hoe/silver"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "civballs:tools/hoe/palladium"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "civballs:tools/hoe/magnesium"
+    }
+  ]
+}

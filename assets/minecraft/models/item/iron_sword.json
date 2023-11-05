@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "civballs:tools/sword/iron"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "civballs:tools/sword/copper"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "civballs:tools/sword/tin"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "civballs:tools/sword/orichalcum"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "civballs:tools/sword/aluminum"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "civballs:tools/sword/hihiirogane"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "civballs:tools/sword/zinc"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "civballs:tools/sword/meteorite"
+    }
+  ]
+}
