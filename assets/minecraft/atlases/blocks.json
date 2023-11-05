@@ -42,17 +42,17 @@
 			"palette_key": "civballs:tools/palettes/key",
 			"permutations": {
 				"iron": "civballs:tools/palettes/iron",
-				"copper": "civballs/tools/palettes/copper",
-				"tin": "civballs/tools/palettes/tin",
-				"orichalcum": "civballs/tools/palettes/orichalcum",
-				"aluminum": "civballs/tools/palettes/aluminum",
-				"hihiirogane": "civballs/tools/palettes/hihiirogane",
-				"zinc": "civballs/tools/palettes/zinc",
-				"meteorite": "civballs/tools/palettes/meteorite",
-				"gold": "civballs/tools/palettes/gold",
-				"silver": "civballs/tools/palettes/silver",
-				"palladium": "civballs/tools/palettes/palladium",
-				"magnesium": "civballs/tools/palettes/magnesium"
+				"copper": "civballs:tools/palettes/copper",
+				"tin": "civballs:tools/palettes/tin",
+				"orichalcum": "civballs:tools/palettes/orichalcum",
+				"aluminum": "civballs:tools/palettes/aluminum",
+				"hihiirogane": "civballs:tools/palettes/hihiirogane",
+				"zinc": "civballs:tools/palettes/zinc",
+				"meteorite": "civballs:tools/palettes/meteorite",
+				"gold": "civballs:tools/palettes/gold",
+				"silver": "civballs:tools/palettes/silver",
+				"palladium": "civballs:tools/palettes/palladium",
+				"magnesium": "civballs:tools/palettes/magnesium"
 			}
 		}
 	]
