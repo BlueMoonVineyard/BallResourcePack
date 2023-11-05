@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/gold_axe"
+    "layer0": "minecraft:item/golden_axe"
   },
   "overrides": [
     {
@@ -17,7 +17,7 @@
       "model": "civballs:tools/axe/palladium"
     },
     {
-      "predicate": { "custom_model_data": 3 },
+      "predicate": { "custom_model_data": 4 },
       "model": "civballs:tools/axe/magnesium"
     }
   ]
