@@ -9,6 +9,7 @@
     { "predicate": {"custom_model_data": 3}, "model": "civballs:plumb_and_square/deepslate" },
     { "predicate": {"custom_model_data": 4}, "model": "civballs:plumb_and_square/copper" },
     { "predicate": {"custom_model_data": 5}, "model": "civballs:plumb_and_square/iron" },
-    { "predicate": {"custom_model_data": 6}, "model": "civballs:sigil_slime/sigil_slime" }
+    { "predicate": {"custom_model_data": 6}, "model": "civballs:sigil_slime/sigil_slime" },
+    { "predicate": {"custom_model_data": 7}, "model": "civballs:sigil_slime/pillar" }
   ]
 }
