@@ -1,5 +1,9 @@
 #!/usr/bin/env elvish
 
+# SPDX-FileCopyrightText: 2023 Janet Blackquill <uhhadd@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 var variants = [raw nugget ingot]
 
 var ironOres = [
