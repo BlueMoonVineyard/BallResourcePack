@@ -17,7 +17,7 @@
       "model": "civballs:tools/hoe/palladium"
     },
     {
-      "predicate": { "custom_model_data": 3 },
+      "predicate": { "custom_model_data": 4 },
       "model": "civballs:tools/hoe/magnesium"
     }
   ]
