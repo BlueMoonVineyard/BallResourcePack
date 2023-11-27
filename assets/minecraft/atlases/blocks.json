@@ -52,7 +52,10 @@
 				"gold": "civballs:tools/palettes/gold",
 				"silver": "civballs:tools/palettes/silver",
 				"palladium": "civballs:tools/palettes/palladium",
-				"magnesium": "civballs:tools/palettes/magnesium"
+				"bronze": "civballs:tools/palettes/bronze",
+				"gilded_iron": "civballs:tools/palettes/gilded_iron",
+				"magnox": "civballs:tools/palettes/magnox",
+				"pallalumin": "civballs:tools/palettes/pallalumin"
 			}
 		}
 	]

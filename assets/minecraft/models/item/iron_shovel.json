@@ -35,6 +35,22 @@
     {
       "predicate": { "custom_model_data": 8 },
       "model": "civballs:tools/shovel/meteorite"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "civballs:tools/shovel/bronze"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "civballs:tools/shovel/gilded_iron"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "civballs:tools/shovel/magnox"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "civballs:tools/shovel/pallalumin"
     }
   ]
 }
