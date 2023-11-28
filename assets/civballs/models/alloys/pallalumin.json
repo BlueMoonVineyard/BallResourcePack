@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civballs:alloys/pallalumin"
+  },
+  "parent": "minecraft:item/generated"
+}

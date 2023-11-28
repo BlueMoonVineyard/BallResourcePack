@@ -45,6 +45,30 @@
         "custom_model_data": 82
       },
       "model": "civballs:ores/lead/ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 300
+      },
+      "model": "civballs:alloys/pallalumin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 310
+      },
+      "model": "civballs:alloys/bronze"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 320
+      },
+      "model": "civballs:alloys/magnox"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330
+      },
+      "model": "civballs:alloys/gilded_iron"
     }
   ]
 }

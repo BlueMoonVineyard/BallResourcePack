@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civballs:alloys/magnox"
+  },
+  "parent": "minecraft:item/generated"
+}
