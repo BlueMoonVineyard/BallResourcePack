@@ -36,6 +36,11 @@
 			"prefix": "alloys/"
 		},
 		{
+			"type": "directory",
+			"source": "tools",
+			"prefix": "tools/"
+		},
+		{
 			"type": "paletted_permutations",
 			"textures": [
 				"civballs:tools/axe",
@@ -60,7 +65,8 @@
 				"bronze": "civballs:tools/palettes/bronze",
 				"gilded_iron": "civballs:tools/palettes/gilded_iron",
 				"magnox": "civballs:tools/palettes/magnox",
-				"pallalumin": "civballs:tools/palettes/pallalumin"
+				"pallalumin": "civballs:tools/palettes/pallalumin",
+				"magnesium": "civballs:tools/palettes/magnesium"
 			}
 		}
 	]
