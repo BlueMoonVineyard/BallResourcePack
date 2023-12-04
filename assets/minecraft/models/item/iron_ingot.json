@@ -48,6 +48,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 222
+      },
+      "model": "civballs:ores/sulfur/ingot"
+    },
+    {
+      "predicate": {
         "custom_model_data": 300
       },
       "model": "civballs:alloys/pallalumin"

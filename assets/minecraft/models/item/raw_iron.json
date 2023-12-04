@@ -45,6 +45,12 @@
         "custom_model_data": 80
       },
       "model": "civballs:ores/lead/raw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 220
+      },
+      "model": "civballs:ores/sulfur/raw"
     }
   ]
 }

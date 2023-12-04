@@ -63,6 +63,12 @@
         "custom_model_data": 141
       },
       "model": "civballs:ores/meteorite/nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 221
+      },
+      "model": "civballs:ores/sulfur/nugget"
     }
   ]
 }
