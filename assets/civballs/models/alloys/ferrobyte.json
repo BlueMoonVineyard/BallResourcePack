@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civballs:alloys/ferrobyte"
+  },
+  "parent": "minecraft:item/generated"
+}

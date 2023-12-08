@@ -75,6 +75,42 @@
         "custom_model_data": 330
       },
       "model": "civballs:alloys/gilded_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 400
+      },
+      "model": "civballs:alloys/ferrobyte"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 410
+      },
+      "model": "civballs:alloys/sky_bronze"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420
+      },
+      "model": "civballs:alloys/suno"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 430
+      },
+      "model": "civballs:alloys/entschlossenite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 440
+      },
+      "model": "civballs:alloys/hepatizon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 450
+      },
+      "model": "civballs:alloys/manyullyn"
     }
   ]
 }
