@@ -48,6 +48,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "civballs:ores/copper/nugget"
+    },
+    {
+      "predicate": {
         "custom_model_data": 121
       },
       "model": "civballs:ores/orichalcum/nugget"
