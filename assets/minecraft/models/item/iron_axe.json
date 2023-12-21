@@ -51,6 +51,10 @@
     {
       "predicate": { "custom_model_data": 12 },
       "model": "civballs:tools/axe/pallalumin"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "civballs:tools/wide_axe"
     }
   ]
 }
