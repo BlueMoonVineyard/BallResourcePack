@@ -1,6 +1,6 @@
 {
   "textures": {
-    "layer0": "civballs:alloys/entschlossenite"
+    "layer0": "civballs:alloys/adamantite"
   },
   "parent": "minecraft:item/generated"
 }
