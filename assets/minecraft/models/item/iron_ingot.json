@@ -86,7 +86,25 @@
       "predicate": {
         "custom_model_data": 410
       },
-      "model": "civballs:alloys/sky_bronze"
+      "model": "civballs:alloys/sky_bronze_morning"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 411
+      },
+      "model": "civballs:alloys/sky_bronze_day"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 412
+      },
+      "model": "civballs:alloys/sky_bronze_evening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 413
+      },
+      "model": "civballs:alloys/sky_bronze_night"
     },
     {
       "predicate": {
