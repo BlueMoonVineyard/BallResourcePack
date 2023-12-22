@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "civballs:tools/axe/suno"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "civballs:tools/axe/hepatizon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "civballs:tools/axe/manyullyn"
+    }
+  ]
+}
