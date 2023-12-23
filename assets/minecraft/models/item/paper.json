@@ -9,6 +9,7 @@
     { "predicate": {"custom_model_data": 3}, "model": "civballs:sigil_slime/egg" },
     { "predicate": {"custom_model_data": 4}, "model": "civballs:orders/buy" },
     { "predicate": {"custom_model_data": 5}, "model": "civballs:orders/sell" },
-    { "predicate": {"custom_model_data": 6}, "model": "civballs:tools/spawnbook" }
+    { "predicate": {"custom_model_data": 6}, "model": "civballs:tools/spawnbook" },
+    { "predicate": {"custom_model_data": 7}, "model": "civballs:tools/backpack" }
   ]
 }
