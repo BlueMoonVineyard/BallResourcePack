@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 122
       },
-      "model": "civballs:ores/orichalcum/ingot"
+      "model": "civcubed:ores/orichalcum/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 132
       },
-      "model": "civballs:ores/hihiirogane/ingot"
+      "model": "civcubed:ores/hihiirogane/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 142
       },
-      "model": "civballs:ores/meteorite/ingot"
+      "model": "civcubed:ores/meteorite/ingot"
     }
   ]
 }

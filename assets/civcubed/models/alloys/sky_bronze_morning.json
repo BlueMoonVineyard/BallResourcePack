@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:alloys/sky_bronze_morning"
+  },
+  "parent": "minecraft:item/generated"
+}

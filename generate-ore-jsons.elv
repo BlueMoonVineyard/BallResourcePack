@@ -57,17 +57,17 @@ var goldBases = [raw_gold gold_nugget gold_ingot]
 fn makeFolders { |ores|
 	var keyed = [(keys $ores)]
 	for key $keyed {
-		mkdir -p assets/civballs/models/ores/$key
-		mkdir -p assets/civballs/textures/ores/$key
+		mkdir -p assets/civcubed/models/ores/$key
+		mkdir -p assets/civcubed/textures/ores/$key
 		for variant $variants {
 			var json = [
 			    &parent=minecraft:item/generated
 			    &textures=[
-			        &layer0=civballs:ores/$key/$variant
+			        &layer0=civcubed:ores/$key/$variant
 			    ]
 			]
-			put $json | to-json | jq . > assets/civballs/models/ores/$key/$variant.json
-			touch assets/civballs/textures/ores/$key/$variant.png
+			put $json | to-json | jq . > assets/civcubed/models/ores/$key/$variant.json
+			touch assets/civcubed/textures/ores/$key/$variant.png
 		}
 	}
 }
@@ -87,7 +87,7 @@ fn makeMinecraft { |ores bases|
 			&overrides=[(keys $ores | order &less-than={ |a b|
 				< (+ $ores[$a] $num) (+ $ores[$b] $num)
 			} | each { |key|
-				put [&predicate=[&custom_model_data=(+ $ores[$key] $num)] &model=civballs:ores/$key/$variants[$num]]
+				put [&predicate=[&custom_model_data=(+ $ores[$key] $num)] &model=civcubed:ores/$key/$variants[$num]]
 			})]
 		]
 		put $baseJson | to-json | jq . > assets/minecraft/models/item/$base.json

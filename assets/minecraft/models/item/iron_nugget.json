@@ -8,73 +8,73 @@
       "predicate": {
         "custom_model_data": 21
       },
-      "model": "civballs:ores/tin/nugget"
+      "model": "civcubed:ores/tin/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 31
       },
-      "model": "civballs:ores/aluminum/nugget"
+      "model": "civcubed:ores/aluminum/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 41
       },
-      "model": "civballs:ores/zinc/nugget"
+      "model": "civcubed:ores/zinc/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 51
       },
-      "model": "civballs:ores/silver/nugget"
+      "model": "civcubed:ores/silver/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 61
       },
-      "model": "civballs:ores/sillicon/nugget"
+      "model": "civcubed:ores/sillicon/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 71
       },
-      "model": "civballs:ores/cobalt/nugget"
+      "model": "civcubed:ores/cobalt/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 81
       },
-      "model": "civballs:ores/lead/nugget"
+      "model": "civcubed:ores/lead/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 111
       },
-      "model": "civballs:ores/copper/nugget"
+      "model": "civcubed:ores/copper/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 121
       },
-      "model": "civballs:ores/orichalcum/nugget"
+      "model": "civcubed:ores/orichalcum/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 131
       },
-      "model": "civballs:ores/hihiirogane/nugget"
+      "model": "civcubed:ores/hihiirogane/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 141
       },
-      "model": "civballs:ores/meteorite/nugget"
+      "model": "civcubed:ores/meteorite/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 221
       },
-      "model": "civballs:ores/sulfur/nugget"
+      "model": "civcubed:ores/sulfur/nugget"
     }
   ]
 }

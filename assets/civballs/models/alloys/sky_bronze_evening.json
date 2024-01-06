@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "civballs:alloys/sky_bronze_evening"
-  },
-  "parent": "minecraft:item/generated"
-}

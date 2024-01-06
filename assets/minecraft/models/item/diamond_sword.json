@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "civballs:tools/sword/suno"
+      "model": "civcubed:tools/sword/suno"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "civballs:tools/sword/hepatizon"
+      "model": "civcubed:tools/sword/hepatizon"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "civballs:tools/sword/manyullyn"
+      "model": "civcubed:tools/sword/manyullyn"
     }
   ]
 }

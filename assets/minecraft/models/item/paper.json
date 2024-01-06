@@ -4,12 +4,12 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "civballs:sigils/blank" },
-    { "predicate": {"custom_model_data": 2}, "model": "civballs:sigils/loaded" },
-    { "predicate": {"custom_model_data": 3}, "model": "civballs:sigil_slime/egg" },
-    { "predicate": {"custom_model_data": 4}, "model": "civballs:orders/buy" },
-    { "predicate": {"custom_model_data": 5}, "model": "civballs:orders/sell" },
-    { "predicate": {"custom_model_data": 6}, "model": "civballs:tools/spawnbook" },
-    { "predicate": {"custom_model_data": 7}, "model": "civballs:tools/backpack" }
+    { "predicate": {"custom_model_data": 1}, "model": "civcubed:sigils/blank" },
+    { "predicate": {"custom_model_data": 2}, "model": "civcubed:sigils/loaded" },
+    { "predicate": {"custom_model_data": 3}, "model": "civcubed:sigil_slime/egg" },
+    { "predicate": {"custom_model_data": 4}, "model": "civcubed:orders/buy" },
+    { "predicate": {"custom_model_data": 5}, "model": "civcubed:orders/sell" },
+    { "predicate": {"custom_model_data": 6}, "model": "civcubed:tools/spawnbook" },
+    { "predicate": {"custom_model_data": 7}, "model": "civcubed:tools/backpack" }
   ]
 }

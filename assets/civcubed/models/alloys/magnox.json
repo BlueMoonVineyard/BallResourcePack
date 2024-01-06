@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:alloys/magnox"
+  },
+  "parent": "minecraft:item/generated"
+}

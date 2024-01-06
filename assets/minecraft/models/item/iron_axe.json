@@ -6,55 +6,55 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/axe/iron"
+      "model": "civcubed:tools/axe/iron"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/axe/copper"
+      "model": "civcubed:tools/axe/copper"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/axe/tin"
+      "model": "civcubed:tools/axe/tin"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/axe/orichalcum"
+      "model": "civcubed:tools/axe/orichalcum"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "civballs:tools/axe/aluminum"
+      "model": "civcubed:tools/axe/aluminum"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "civballs:tools/axe/hihiirogane"
+      "model": "civcubed:tools/axe/hihiirogane"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "civballs:tools/axe/zinc"
+      "model": "civcubed:tools/axe/zinc"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "civballs:tools/axe/meteorite"
+      "model": "civcubed:tools/axe/meteorite"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "civballs:tools/axe/bronze"
+      "model": "civcubed:tools/axe/bronze"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "civballs:tools/axe/gilded_iron"
+      "model": "civcubed:tools/axe/gilded_iron"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "civballs:tools/axe/magnox"
+      "model": "civcubed:tools/axe/magnox"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "civballs:tools/axe/pallalumin"
+      "model": "civcubed:tools/axe/pallalumin"
     },
     {
       "predicate": { "custom_model_data": 13 },
-      "model": "civballs:tools/wide_axe"
+      "model": "civcubed:tools/wide_axe"
     }
   ]
 }

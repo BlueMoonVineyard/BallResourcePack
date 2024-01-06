@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:ores/lead/raw"
+  },
+  "parent": "minecraft:item/generated"
+}

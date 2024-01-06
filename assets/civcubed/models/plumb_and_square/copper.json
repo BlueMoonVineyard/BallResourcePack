@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "civcubed:plumb_and_square/copper"
+    }
+}

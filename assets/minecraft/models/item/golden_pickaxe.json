@@ -6,19 +6,19 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/pickaxe/gold"
+      "model": "civcubed:tools/pickaxe/gold"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/pickaxe/silver"
+      "model": "civcubed:tools/pickaxe/silver"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/pickaxe/palladium"
+      "model": "civcubed:tools/pickaxe/palladium"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/pickaxe/magnesium"
+      "model": "civcubed:tools/pickaxe/magnesium"
     }
   ]
 }

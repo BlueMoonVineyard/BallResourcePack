@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "civballs:tools/axe/suno"
+      "model": "civcubed:tools/axe/suno"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "civballs:tools/axe/hepatizon"
+      "model": "civcubed:tools/axe/hepatizon"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "civballs:tools/axe/manyullyn"
+      "model": "civcubed:tools/axe/manyullyn"
     }
   ]
 }

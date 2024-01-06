@@ -4,9 +4,9 @@
     "layer0": "minecraft:item/apple"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "civballs:fruits/apricot" },
-    { "predicate": {"custom_model_data": 2}, "model": "civballs:fruits/peach" },
-    { "predicate": {"custom_model_data": 3}, "model": "civballs:fruits/pear" },
-    { "predicate": {"custom_model_data": 4}, "model": "civballs:fruits/plum" }
+    { "predicate": {"custom_model_data": 1}, "model": "civcubed:fruits/apricot" },
+    { "predicate": {"custom_model_data": 2}, "model": "civcubed:fruits/peach" },
+    { "predicate": {"custom_model_data": 3}, "model": "civcubed:fruits/pear" },
+    { "predicate": {"custom_model_data": 4}, "model": "civcubed:fruits/plum" }
   ]
 }

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "civballs:ores/lead/raw"
-  },
-  "parent": "minecraft:item/generated"
-}

@@ -4,21 +4,21 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "civballs:plumb_and_square/empty" },
-    { "predicate": {"custom_model_data": 2}, "model": "civballs:plumb_and_square/stone" },
-    { "predicate": {"custom_model_data": 3}, "model": "civballs:plumb_and_square/deepslate" },
-    { "predicate": {"custom_model_data": 4}, "model": "civballs:plumb_and_square/copper" },
-    { "predicate": {"custom_model_data": 5}, "model": "civballs:plumb_and_square/iron" },
-    { "predicate": {"custom_model_data": 6}, "model": "civballs:sigil_slime/sigil_slime" },
-    { "predicate": {"custom_model_data": 7}, "model": "civballs:sigil_slime/pillar" },
-    { "predicate": {"custom_model_data": 8}, "model": "civballs:sigil_slime/bound_sigil_slime" },
-    { "predicate": {"custom_model_data": 9}, "model": "civballs:lines/red" },
-    { "predicate": {"custom_model_data": 10}, "model": "civballs:lines/orange" },
-    { "predicate": {"custom_model_data": 11}, "model": "civballs:lines/yellow" },
-    { "predicate": {"custom_model_data": 12}, "model": "civballs:lines/white" },
-    { "predicate": {"custom_model_data": 13}, "model": "civballs:lines/teal" },
-    { "predicate": {"custom_model_data": 14}, "model": "civballs:lines/lime" },
-    { "predicate": {"custom_model_data": 15}, "model": "civballs:lines/gray" },
-    { "predicate": {"custom_model_data": 16}, "model": "civballs:tools/essence" }
+    { "predicate": {"custom_model_data": 1}, "model": "civcubed:plumb_and_square/empty" },
+    { "predicate": {"custom_model_data": 2}, "model": "civcubed:plumb_and_square/stone" },
+    { "predicate": {"custom_model_data": 3}, "model": "civcubed:plumb_and_square/deepslate" },
+    { "predicate": {"custom_model_data": 4}, "model": "civcubed:plumb_and_square/copper" },
+    { "predicate": {"custom_model_data": 5}, "model": "civcubed:plumb_and_square/iron" },
+    { "predicate": {"custom_model_data": 6}, "model": "civcubed:sigil_slime/sigil_slime" },
+    { "predicate": {"custom_model_data": 7}, "model": "civcubed:sigil_slime/pillar" },
+    { "predicate": {"custom_model_data": 8}, "model": "civcubed:sigil_slime/bound_sigil_slime" },
+    { "predicate": {"custom_model_data": 9}, "model": "civcubed:lines/red" },
+    { "predicate": {"custom_model_data": 10}, "model": "civcubed:lines/orange" },
+    { "predicate": {"custom_model_data": 11}, "model": "civcubed:lines/yellow" },
+    { "predicate": {"custom_model_data": 12}, "model": "civcubed:lines/white" },
+    { "predicate": {"custom_model_data": 13}, "model": "civcubed:lines/teal" },
+    { "predicate": {"custom_model_data": 14}, "model": "civcubed:lines/lime" },
+    { "predicate": {"custom_model_data": 15}, "model": "civcubed:lines/gray" },
+    { "predicate": {"custom_model_data": 16}, "model": "civcubed:tools/essence" }
   ]
 }

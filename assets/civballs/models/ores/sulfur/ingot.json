@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "civballs:ores/sulfur/ingot"
-  },
-  "parent": "minecraft:item/generated"
-}

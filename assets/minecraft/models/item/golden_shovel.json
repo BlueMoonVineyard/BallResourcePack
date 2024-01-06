@@ -6,19 +6,19 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/shovel/gold"
+      "model": "civcubed:tools/shovel/gold"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/shovel/silver"
+      "model": "civcubed:tools/shovel/silver"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/shovel/palladium"
+      "model": "civcubed:tools/shovel/palladium"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/shovel/magnesium"
+      "model": "civcubed:tools/shovel/magnesium"
     }
   ]
 }

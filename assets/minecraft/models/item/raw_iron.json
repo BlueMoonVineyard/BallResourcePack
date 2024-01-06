@@ -8,49 +8,49 @@
       "predicate": {
         "custom_model_data": 20
       },
-      "model": "civballs:ores/tin/raw"
+      "model": "civcubed:ores/tin/raw"
     },
     {
       "predicate": {
         "custom_model_data": 30
       },
-      "model": "civballs:ores/aluminum/raw"
+      "model": "civcubed:ores/aluminum/raw"
     },
     {
       "predicate": {
         "custom_model_data": 40
       },
-      "model": "civballs:ores/zinc/raw"
+      "model": "civcubed:ores/zinc/raw"
     },
     {
       "predicate": {
         "custom_model_data": 50
       },
-      "model": "civballs:ores/silver/raw"
+      "model": "civcubed:ores/silver/raw"
     },
     {
       "predicate": {
         "custom_model_data": 60
       },
-      "model": "civballs:ores/sillicon/raw"
+      "model": "civcubed:ores/sillicon/raw"
     },
     {
       "predicate": {
         "custom_model_data": 70
       },
-      "model": "civballs:ores/cobalt/raw"
+      "model": "civcubed:ores/cobalt/raw"
     },
     {
       "predicate": {
         "custom_model_data": 80
       },
-      "model": "civballs:ores/lead/raw"
+      "model": "civcubed:ores/lead/raw"
     },
     {
       "predicate": {
         "custom_model_data": 220
       },
-      "model": "civballs:ores/sulfur/raw"
+      "model": "civcubed:ores/sulfur/raw"
     }
   ]
 }

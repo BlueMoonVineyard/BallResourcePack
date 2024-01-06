@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:alloys/manyullyn"
+  },
+  "parent": "minecraft:item/generated"
+}

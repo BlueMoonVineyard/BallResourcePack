@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 222
       },
-      "model": "civballs:ores/silver/ingot"
+      "model": "civcubed:ores/silver/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 232
       },
-      "model": "civballs:ores/palladium/ingot"
+      "model": "civcubed:ores/palladium/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 242
       },
-      "model": "civballs:ores/magnesium/ingot"
+      "model": "civcubed:ores/magnesium/ingot"
     }
   ]
 }

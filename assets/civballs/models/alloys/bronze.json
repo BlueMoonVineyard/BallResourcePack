@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "civballs:alloys/bronze"
-  },
-  "parent": "minecraft:item/generated"
-}

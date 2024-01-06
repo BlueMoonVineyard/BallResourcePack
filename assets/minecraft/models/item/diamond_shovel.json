@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "civballs:tools/shovel/suno"
+      "model": "civcubed:tools/shovel/suno"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "civballs:tools/shovel/hepatizon"
+      "model": "civcubed:tools/shovel/hepatizon"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "civballs:tools/shovel/manyullyn"
+      "model": "civcubed:tools/shovel/manyullyn"
     }
   ]
 }

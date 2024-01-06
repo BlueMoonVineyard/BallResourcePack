@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:ores/zinc/raw"
+  },
+  "parent": "minecraft:item/generated"
+}

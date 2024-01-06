@@ -6,19 +6,19 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/hoe/gold"
+      "model": "civcubed:tools/hoe/gold"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/hoe/silver"
+      "model": "civcubed:tools/hoe/silver"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/hoe/palladium"
+      "model": "civcubed:tools/hoe/palladium"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/hoe/magnesium"
+      "model": "civcubed:tools/hoe/magnesium"
     }
   ]
 }

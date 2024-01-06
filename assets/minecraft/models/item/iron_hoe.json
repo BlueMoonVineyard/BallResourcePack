@@ -6,51 +6,51 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/hoe/iron"
+      "model": "civcubed:tools/hoe/iron"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/hoe/copper"
+      "model": "civcubed:tools/hoe/copper"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/hoe/tin"
+      "model": "civcubed:tools/hoe/tin"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/hoe/orichalcum"
+      "model": "civcubed:tools/hoe/orichalcum"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "civballs:tools/hoe/aluminum"
+      "model": "civcubed:tools/hoe/aluminum"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "civballs:tools/hoe/hihiirogane"
+      "model": "civcubed:tools/hoe/hihiirogane"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "civballs:tools/hoe/zinc"
+      "model": "civcubed:tools/hoe/zinc"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "civballs:tools/hoe/meteorite"
+      "model": "civcubed:tools/hoe/meteorite"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "civballs:tools/hoe/bronze"
+      "model": "civcubed:tools/hoe/bronze"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "civballs:tools/hoe/gilded_iron"
+      "model": "civcubed:tools/hoe/gilded_iron"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "civballs:tools/hoe/magnox"
+      "model": "civcubed:tools/hoe/magnox"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "civballs:tools/hoe/pallalumin"
+      "model": "civcubed:tools/hoe/pallalumin"
     }
   ]
 }

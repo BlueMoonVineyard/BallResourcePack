@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 220
       },
-      "model": "civballs:ores/silver/raw"
+      "model": "civcubed:ores/silver/raw"
     },
     {
       "predicate": {
         "custom_model_data": 230
       },
-      "model": "civballs:ores/palladium/raw"
+      "model": "civcubed:ores/palladium/raw"
     },
     {
       "predicate": {
         "custom_model_data": 240
       },
-      "model": "civballs:ores/magnesium/raw"
+      "model": "civcubed:ores/magnesium/raw"
     }
   ]
 }

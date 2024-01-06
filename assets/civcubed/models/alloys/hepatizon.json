@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:alloys/hepatizon"
+  },
+  "parent": "minecraft:item/generated"
+}

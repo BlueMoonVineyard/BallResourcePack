@@ -6,55 +6,55 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/pickaxe/iron"
+      "model": "civcubed:tools/pickaxe/iron"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/pickaxe/copper"
+      "model": "civcubed:tools/pickaxe/copper"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/pickaxe/tin"
+      "model": "civcubed:tools/pickaxe/tin"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/pickaxe/orichalcum"
+      "model": "civcubed:tools/pickaxe/orichalcum"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "civballs:tools/pickaxe/aluminum"
+      "model": "civcubed:tools/pickaxe/aluminum"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "civballs:tools/pickaxe/hihiirogane"
+      "model": "civcubed:tools/pickaxe/hihiirogane"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "civballs:tools/pickaxe/zinc"
+      "model": "civcubed:tools/pickaxe/zinc"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "civballs:tools/pickaxe/meteorite"
+      "model": "civcubed:tools/pickaxe/meteorite"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "civballs:tools/pickaxe/bronze"
+      "model": "civcubed:tools/pickaxe/bronze"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "civballs:tools/pickaxe/gilded_iron"
+      "model": "civcubed:tools/pickaxe/gilded_iron"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "civballs:tools/pickaxe/magnox"
+      "model": "civcubed:tools/pickaxe/magnox"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "civballs:tools/pickaxe/pallalumin"
+      "model": "civcubed:tools/pickaxe/pallalumin"
     },
     {
       "predicate": { "custom_model_data": 13 },
-      "model": "civballs:tools/wide_pickaxe"
+      "model": "civcubed:tools/wide_pickaxe"
     }
   ]
 }

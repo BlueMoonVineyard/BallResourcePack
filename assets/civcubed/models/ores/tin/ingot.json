@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:ores/tin/ingot"
+  },
+  "parent": "minecraft:item/generated"
+}

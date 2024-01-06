@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:alloys/adamantite"
+  },
+  "parent": "minecraft:item/generated"
+}

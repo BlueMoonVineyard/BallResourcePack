@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:alloys/suno"
+  },
+  "parent": "minecraft:item/generated"
+}

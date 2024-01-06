@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "civcubed:ores/hihiirogane/raw"
+  },
+  "parent": "minecraft:item/generated"
+}

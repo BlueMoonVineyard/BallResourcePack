@@ -48,33 +48,33 @@
 		{
 			"type": "paletted_permutations",
 			"textures": [
-				"civballs:tools/axe",
-				"civballs:tools/hoe",
-				"civballs:tools/pickaxe",
-				"civballs:tools/shovel",
-				"civballs:tools/sword"
+				"civcubed:tools/axe",
+				"civcubed:tools/hoe",
+				"civcubed:tools/pickaxe",
+				"civcubed:tools/shovel",
+				"civcubed:tools/sword"
 			],
-			"palette_key": "civballs:tools/palettes/key",
+			"palette_key": "civcubed:tools/palettes/key",
 			"permutations": {
-				"iron": "civballs:tools/palettes/iron",
-				"copper": "civballs:tools/palettes/copper",
-				"tin": "civballs:tools/palettes/tin",
-				"orichalcum": "civballs:tools/palettes/orichalcum",
-				"aluminum": "civballs:tools/palettes/aluminum",
-				"hihiirogane": "civballs:tools/palettes/hihiirogane",
-				"zinc": "civballs:tools/palettes/zinc",
-				"meteorite": "civballs:tools/palettes/meteorite",
-				"gold": "civballs:tools/palettes/gold",
-				"silver": "civballs:tools/palettes/silver",
-				"palladium": "civballs:tools/palettes/palladium",
-				"bronze": "civballs:tools/palettes/bronze",
-				"gilded_iron": "civballs:tools/palettes/gilded_iron",
-				"magnox": "civballs:tools/palettes/magnox",
-				"pallalumin": "civballs:tools/palettes/pallalumin",
-				"magnesium": "civballs:tools/palettes/magnesium",
-				"manyullyn": "civballs:tools/palettes/manyullyn",
-				"hepatizon": "civballs:tools/palettes/hepatizon",
-				"suno": "civballs:tools/palettes/suno"
+				"iron": "civcubed:tools/palettes/iron",
+				"copper": "civcubed:tools/palettes/copper",
+				"tin": "civcubed:tools/palettes/tin",
+				"orichalcum": "civcubed:tools/palettes/orichalcum",
+				"aluminum": "civcubed:tools/palettes/aluminum",
+				"hihiirogane": "civcubed:tools/palettes/hihiirogane",
+				"zinc": "civcubed:tools/palettes/zinc",
+				"meteorite": "civcubed:tools/palettes/meteorite",
+				"gold": "civcubed:tools/palettes/gold",
+				"silver": "civcubed:tools/palettes/silver",
+				"palladium": "civcubed:tools/palettes/palladium",
+				"bronze": "civcubed:tools/palettes/bronze",
+				"gilded_iron": "civcubed:tools/palettes/gilded_iron",
+				"magnox": "civcubed:tools/palettes/magnox",
+				"pallalumin": "civcubed:tools/palettes/pallalumin",
+				"magnesium": "civcubed:tools/palettes/magnesium",
+				"manyullyn": "civcubed:tools/palettes/manyullyn",
+				"hepatizon": "civcubed:tools/palettes/hepatizon",
+				"suno": "civcubed:tools/palettes/suno"
 			}
 		}
 	]

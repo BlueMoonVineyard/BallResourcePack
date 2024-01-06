@@ -6,55 +6,55 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "civballs:tools/shovel/iron"
+      "model": "civcubed:tools/shovel/iron"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "civballs:tools/shovel/copper"
+      "model": "civcubed:tools/shovel/copper"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "civballs:tools/shovel/tin"
+      "model": "civcubed:tools/shovel/tin"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "civballs:tools/shovel/orichalcum"
+      "model": "civcubed:tools/shovel/orichalcum"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "civballs:tools/shovel/aluminum"
+      "model": "civcubed:tools/shovel/aluminum"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "civballs:tools/shovel/hihiirogane"
+      "model": "civcubed:tools/shovel/hihiirogane"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "civballs:tools/shovel/zinc"
+      "model": "civcubed:tools/shovel/zinc"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "civballs:tools/shovel/meteorite"
+      "model": "civcubed:tools/shovel/meteorite"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "civballs:tools/shovel/bronze"
+      "model": "civcubed:tools/shovel/bronze"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "civballs:tools/shovel/gilded_iron"
+      "model": "civcubed:tools/shovel/gilded_iron"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "civballs:tools/shovel/magnox"
+      "model": "civcubed:tools/shovel/magnox"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "civballs:tools/shovel/pallalumin"
+      "model": "civcubed:tools/shovel/pallalumin"
     },
     {
       "predicate": { "custom_model_data": 13 },
-      "model": "civballs:tools/wide_shovel"
+      "model": "civcubed:tools/wide_shovel"
     }
   ]
 }
