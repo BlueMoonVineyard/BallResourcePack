@@ -331,4 +331,11 @@
 , "season.summer": "summer"
 , "season.autumn": "autumn"
 , "season.winter": "winter"
+, "commands.loadouts.saved": "Loadout %1$s has been saved."
+, "commands.loadouts.published-already-exists": "There is already a published loadout with the name of %1$s."
+, "commands.loadouts.published-successfully": "Loadout %1$s has been published as %2$s."
+, "commands.loadouts.private.not-exist": "There is no private loadout with that name."
+, "commands.loadouts.private.applied": "Private loadout %1$s has been applied."
+, "commands.loadouts.public.not-exist": "There is no public loadout with that name."
+, "commands.loadouts.public.applied": "Public loadout %1$s has been applied."
 }
