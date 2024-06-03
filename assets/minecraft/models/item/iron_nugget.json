@@ -6,75 +6,33 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "civcubed:ores/adamantite/nugget"
+    },
+    {
+      "predicate": {
         "custom_model_data": 21
       },
-      "model": "civcubed:ores/tin/nugget"
+      "model": "civcubed:ores/arilla/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 31
       },
-      "model": "civcubed:ores/aluminum/nugget"
+      "model": "civcubed:ores/mythril/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 41
       },
-      "model": "civcubed:ores/zinc/nugget"
+      "model": "civcubed:ores/orichalcum/nugget"
     },
     {
       "predicate": {
         "custom_model_data": 51
       },
-      "model": "civcubed:ores/silver/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 61
-      },
-      "model": "civcubed:ores/sillicon/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 71
-      },
-      "model": "civcubed:ores/cobalt/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 81
-      },
-      "model": "civcubed:ores/lead/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 111
-      },
-      "model": "civcubed:ores/copper/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 121
-      },
-      "model": "civcubed:ores/orichalcum/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 131
-      },
-      "model": "civcubed:ores/hihiirogane/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 141
-      },
-      "model": "civcubed:ores/meteorite/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 221
-      },
-      "model": "civcubed:ores/sulfur/nugget"
+      "model": "civcubed:ores/palladium/nugget"
     }
   ]
 }

@@ -6,51 +6,33 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "civcubed:ores/adamantite/raw"
+    },
+    {
+      "predicate": {
         "custom_model_data": 20
       },
-      "model": "civcubed:ores/tin/raw"
+      "model": "civcubed:ores/arilla/raw"
     },
     {
       "predicate": {
         "custom_model_data": 30
       },
-      "model": "civcubed:ores/aluminum/raw"
+      "model": "civcubed:ores/mythril/raw"
     },
     {
       "predicate": {
         "custom_model_data": 40
       },
-      "model": "civcubed:ores/zinc/raw"
+      "model": "civcubed:ores/orichalcum/raw"
     },
     {
       "predicate": {
         "custom_model_data": 50
       },
-      "model": "civcubed:ores/silver/raw"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 60
-      },
-      "model": "civcubed:ores/sillicon/raw"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 70
-      },
-      "model": "civcubed:ores/cobalt/raw"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 80
-      },
-      "model": "civcubed:ores/lead/raw"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 220
-      },
-      "model": "civcubed:ores/sulfur/raw"
+      "model": "civcubed:ores/palladium/raw"
     }
   ]
 }

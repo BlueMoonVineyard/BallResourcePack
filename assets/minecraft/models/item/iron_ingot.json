@@ -6,129 +6,33 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "civcubed:ores/adamantite/ingot"
+    },
+    {
+      "predicate": {
         "custom_model_data": 22
       },
-      "model": "civcubed:ores/tin/ingot"
+      "model": "civcubed:ores/arilla/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 32
       },
-      "model": "civcubed:ores/aluminum/ingot"
+      "model": "civcubed:ores/mythril/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 42
       },
-      "model": "civcubed:ores/zinc/ingot"
+      "model": "civcubed:ores/orichalcum/ingot"
     },
     {
       "predicate": {
         "custom_model_data": 52
       },
-      "model": "civcubed:ores/silver/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 62
-      },
-      "model": "civcubed:ores/sillicon/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 72
-      },
-      "model": "civcubed:ores/cobalt/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 82
-      },
-      "model": "civcubed:ores/lead/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 222
-      },
-      "model": "civcubed:ores/sulfur/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 300
-      },
-      "model": "civcubed:alloys/pallalumin"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 310
-      },
-      "model": "civcubed:alloys/bronze"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 320
-      },
-      "model": "civcubed:alloys/magnox"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 330
-      },
-      "model": "civcubed:alloys/gilded_iron"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 400
-      },
-      "model": "civcubed:alloys/ferrobyte"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 410
-      },
-      "model": "civcubed:alloys/sky_bronze_morning"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 411
-      },
-      "model": "civcubed:alloys/sky_bronze_day"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 412
-      },
-      "model": "civcubed:alloys/sky_bronze_evening"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 413
-      },
-      "model": "civcubed:alloys/sky_bronze_night"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 420
-      },
-      "model": "civcubed:alloys/suno"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 430
-      },
-      "model": "civcubed:alloys/adamantite"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 440
-      },
-      "model": "civcubed:alloys/hepatizon"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 450
-      },
-      "model": "civcubed:alloys/manyullyn"
+      "model": "civcubed:ores/palladium/ingot"
     }
   ]
 }
