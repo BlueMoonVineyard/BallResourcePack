@@ -46,6 +46,11 @@
 			"prefix": "lines/"
 		},
 		{
+			"type": "directory",
+			"source": "deposits",
+			"prefix": "deposits/"
+		},
+		{
 			"type": "paletted_permutations",
 			"textures": [
 				"civcubed:tools/axe",

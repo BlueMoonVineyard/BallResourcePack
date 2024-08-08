@@ -1,0 +1,6 @@
+{
+  "parent": "civcubed:deposits/pebbles_a_2b",
+  "textures": {
+    "1": "civcubed:deposits/iron_pebbles"
+  }
+}
